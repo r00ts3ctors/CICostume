@@ -46,7 +46,7 @@
 
 <!-- Init JavaScript -->
 <script src="<?php echo base_url('assets/template/backend/'); ?>dist/js/init.js"></script>
-<script src="<?php echo base_url('assets/template/backend/'); ?>dist/js/dashboard2-data.js"></script>
+<!-- <script src="<?php echo base_url('assets/template/backend/'); ?>dist/js/dashboard2-data.js"></script> -->
 
 </body>
 
